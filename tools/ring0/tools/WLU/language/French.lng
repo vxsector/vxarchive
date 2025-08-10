@@ -1,0 +1,254 @@
+Attention
+Succès
+Sélectionnez le système d'exploitation Windows pour modifier les propriétés du compte :
+Sélectionnez le compte d'utilisateur dont vous souhaitez réinitialiser le mot de passe et cliquez sur :
+Localiser le fichier d'informations sur le pilote
+Dossier système
+Système d'exploitation
+Veille
+Style
+Taille de la partition
+Nom de l'utilisateur
+Groupe
+Live ID
+Mot de passe
+Verrouillé
+Désactivé
+N'expire jamais
+RID
+Hex
+Description
+Nom d'utilisateur complet
+Nombre de connexions
+Dernière connexion
+Dernier mot de passe défini
+Expiration du compte
+Échecs de connexion
+Dernier mot de passe incorrect
+Réinitialiser/Déverrouiller
+Nouvel utilisateur
+Contourner
+Options
+Restaurer
+Sauvegarde
+Passez votre curseur sur un objet pour obtenir un aperçu...
+Cliquez, pour télécharger une image à partir d'un fichier :
+Veuillez sélectionner un système d'exploitation pour modifier les comptes...
+Veuillez sélectionner un utilisateur pour modifier les propriétés du compte...
+Déverrouiller le compte et réinitialiser le mot de passe
+Créer un nouvel utilisateur avec des droits d'administrateur
+Permet de contourner les mots de passe des utilisateurs de Windows
+Plus d'outils et d'informations sur le programme
+Restauration à partir d'une sauvegarde de la base de données des utilisateurs
+Créer une sauvegarde de la base de données des utilisateurs
+Attendre...
+Date du jour :
+Veuillez cliquer sur le bouton pour sauvegarder les informations sur l'utilisateur
+Fermer la fenêtre d'informations sur l'utilisateur
+Veuillez saisir le nom d'utilisateur souhaité...
+Si vous souhaitez créer un nouvel utilisateur, veuillez saisir le nom de l'utilisateur et cliquer sur [OK].
+Fermer la fenêtre de création d'un nouvel utilisateur
+Veuillez saisir le mot de passe souhaité...
+Veuillez saisir le nouveau mot de passe et cliquez sur [OK].
+Fermer la fenêtre de changement de mot de passe
+Erreur de chargement de la ruche de registre !
+Attendez, une analyse de partition est en cours...
+Attendez, le disque virtuel est monté...
+Veuillez sélectionner un utilisateur pour obtenir des informations...
+Veuillez attendre la fin de l'activité en cours !
+Réinitialisation du mot de passe réussie !
+Erreur d'accès à la base de données des utilisateurs !
+Veuillez sélectionner un utilisateur pour réinitialiser le mot de passe et déverrouiller...
+Compte utilisateur :
+supprimé !
+Nouvel utilisateur :
+a été créé !
+Système d'exploitation non détecté !
+Fichier d'informations sur le pilote
+La tâche de changement de mot de passe est planifiée !
+Dossier du profil utilisateur trouvé :
+Vous pouvez le supprimer manuellement...
+Ajouter un nouveau membre du groupe
+Ajouter un utilisateur :
+Au
+groupe
+L'utilisateur a été ajouté à
+le
+Utilisateur:
+Déjà membre
+de la
+Il est interdit de priver
+les droits de l'utilisateur :
+Téléchargement
+Sortir du groupe
+Supprimer un utilisateur :
+du
+n'est pas membre
+de la
+Création d'une sauvegarde
+La sauvegarde de la base de données existe déjà.
+Date de création :
+L'écraser ?
+La sauvegarde de la base de données des utilisateurs a été créée !
+Erreur lors de la création de la sauvegarde !
+Créer une sauvegarde de la base de données des utilisateurs ?
+Restaurer à partir de la sauvegarde
+Restaurer la base de données des utilisateurs à partir de la sauvegarde ?
+La base de données des utilisateurs a été restaurée à partir de la sauvegarde !
+Restauration de la base de données
+La restauration a échoué !
+Aucune sauvegarde de la base de données des utilisateurs n'a été trouvée !
+Désactiver l'utilisateur
+Utilisateur Windows
+Utilisateur local de Windows
+La bibliothèque du système n'a pas été trouvée :
+Êtes-vous sûr de vouloir fermer le programme ?
+Effacer l'historique de l'utilisateur
+L'historique de l'utilisateur a été effacé !
+Quelque chose n'a pas fonctionné...
+Le compte est activé !
+Le compte est désactivé !
+Réinitialisation du mot de passe utilisateur !
+Type d'appareil
+Nom de l'appareil
+Étiquette du volume
+Dernier utilisateur connecté
+Ligne Cmd
+Type de configuration
+Code PIN
+Information
+№
+Activer l'utilisateur
+Actualiser la liste
+Effacer l'historique
+Mode de contournement
+Explorateur de fichiers
+Gestionnaire des tâches
+Éditeur de registre
+Invite de commande
+EXÉCUTER
+Gestion de disque
+Propriétés
+Annuler les tâches
+Hibernation
+Réinitialiser le code pin
+Monter un disque virtuel
+Disque
+Faire un don
+A propos de
+Définir le mot de passe
+Réinitialiser le mot de passe
+Administrateurs
+Supprimer un utilisateur
+Supprimer du groupe
+Ajouter au groupe
+Nouvel utilisateur
+Désactiver
+Activer
+pour l'utilisateur
+désactivé
+activé
+Pilote
+Charger le pilote
+Code de sortie
+Le projet vous a plu ? Voulez-vous qu'il se développe ? Apportez une aide financière. Transférez n'importe quel montant sur l'un de ces portefeuilles :
+Réglage du registre hors ligne
+Idée, développements, Interface, tests
+Le programme a été créé avec une assistance technique
+Build
+Code pin
+Pas de mot de passe
+Nom d'utilisateur :
+Nom complet :
+Description :
+Membre du groupe :
+Informations utilisateur
+Indice de mot de passe :
+Dernière connexion :
+Nombre de connexions :
+Veuillez choisir un chemin de sauvegarde :
+Dernier Mot de Passe incorrecte :
+Échec de connexion :
+Le compte expire :
+Dernier mot de passe défini :
+L'utilisateur doit changer le mot de passe lors de la prochaine connexion
+L'utilisateur ne peut pas changer le mot de passe
+Le mot de passe n'expire jamais
+Compte désactivé
+Compte verrouillé
+Aucun mot de passe n'est requis
+le détournement du RID
+ID Microsoft
+Sauvegarder
+OK
+Utilisateur non sélectionné ou disque indisponible !
+fichier enregistré !
+Ouvrir le fichier pour le visualiser dans le bloc-notes ?
+Erreur lors de la création du fichier !
+Veuillez choisir un autre chemin de stockage...
+Windows Live détecté
+Utilisateur local
+Erreur d'accès au fichier de registre !
+Erreur d'écriture des données !
+Réinitialiser le mot de passe de l'utilisateur :
+Réinitialiser le code pin de l'utilisateur :
+Réinitialisation du code pin Ok
+Le code pin n'a pas été réinitialisé
+Supprimez l'utilisateur :
+Tâches planifiées annulées !
+L'architecture de la bibliothèque est incorrecte :
+Le mode veille n'est pas désactivé
+Erreur d'accès au fichier :
+est supprimé!
+Veuillez sélectionner l'utilisateur à supprimer...
+Le mode veille est désactivé
+Contourner le mot de passe Windows
+Toutes nos félicitations
+et déverrouiller le compte ?
+Il s'agit du compte Windows Live associé à :
+Réinitialiser le mot de passe et transférer le compte vers le compte local ?
+Annuler
+Saisissez un nouveau mot de passe :
+Saisissez le nom d'utilisateur :
+Veuillez sélectionner l'Explorateur de fichiers :
+Sélectionner un fichier :
+Désolé, partition de disque
+indisponible
+L'action n'a pas pu être exécutée !
+semble être en HIBERNATION.
+DÉSACTIVER L'HIBERNATION ?
+(conséquences inconnues)
+La suppression des comptes intégrés n'est pas autorisée !
+Nom d'utilisateur :
+Veuillez Quitter le programme et Redémarrer correctement le système WINDOWS sélectionné. Utilisez ensuite "Redémarrer" pour éviter de passer en mode veille (n'utilisez pas les commandes "Arrêter" ou "Éteindre").
+Le système Windows sur le disque sélectionné semble être en mode veille. Il peut être dangereux de modifier les données de ce disque. Le système Windows peut ne pas démarrer correctement après la modification, toutes les modifications peuvent être perdues ou le système de fichiers peut être corrompu.
+Cette fonction vous permet de contourner le mot de passe Windows d'un compte, sans modifier le mot de passe actuel. Elle fonctionne en désactivant temporairement le sous-système d'authentification de Windows lors du démarrage.
+Vous êtes prêt à contourner les mots de passe de votre installation Windows :
+Cliquez sur OK pour continuer.
+Redémarrez maintenant votre ordinateur et vous pourrez vous connecter à n'importe quel compte Windows local avec n'importe quel mot de passe, mais une seule fois.
+Notez que le sous-système d'authentification Windows fonctionnera normalement après un nouveau redémarrage.
+Oui
+Non
+<vide>
+<inconnu>
+Le registre est verrouillé !
+Déverrouiller la ruche de registre SAM dans l'éditeur de registre et actualiser la liste.
+Administrateur
+Utilisateurs
+Invité
+Pirater
+Autres
+Système inactif introuvable ! Solutions possibles :
+Le programme ne fonctionne pas avec le système en cours d'exécution !
+* Exécutez le programme dans un environnement WinPE (LiveCD).
+Partition avec système installé introuvable !
+* installer le pilote SSD M.2 PCIe NVMe ;
+* désactivez le cryptage du lecteur BitLocker.
+Créer un nouvel utilisateur
+Réinitialiser...
+Nouveau
+Contourner
+Options
+Restaurer
+Sauvegarde
+Débloquer

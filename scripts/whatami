@@ -1,0 +1,23 @@
+#!/bin/bash
+
+echo "╔═══════════════╗"
+echo "║   WHATAMI?    ║"
+echo "╚═══════════════╝"
+echo
+sleep 0.5
+
+echo "[+] whoami:" && whoami
+echo "[+] UID/GID/Groups:" && id
+echo "[+] Hostname:" && hostname
+echo "[+] OS Info:" && uname -a
+echo "[+] Distro:" && cat /etc/os-release 2>/dev/null | grep PRETTY_NAME
+echo "[+] Current Directory:" && pwd
+echo "[+] Home Directory:" && echo $HOME
+echo "[+] PATH:" && echo $PATH
+echo "[+] IP Addresses:" && ip a | grep inet
+echo "[+] Active Connections:" && ss -tunap
+echo "[+] Running Processes (top 10):" && ps aux --sort=-%mem | head -n 10
+echo "[+] Environment Variables:" && env
+echo "[+] Users Logged In:" && w
+echo "[+] Sudo Rights (if any):" && sudo -l 2>/dev/null
+echo "[+] Crontabs:" && cat /etc/crontab 2>/dev/null && ls -la /etc/cron*

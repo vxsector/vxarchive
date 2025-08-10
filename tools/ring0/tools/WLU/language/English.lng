@@ -1,0 +1,254 @@
+﻿Attention
+Success
+Select Windows operating system to edit the account properties:
+Select user account whose password you want to reset and click:
+Locate Driver Information File
+System Root
+Operating System
+Sleep
+Style
+Partition Size
+User Name
+Group
+Live ID
+Password
+Locked Out
+Disabled
+Never Expire
+RID
+Hex
+Description
+User Full Name
+Login Count
+Last logon
+Password last set
+Account expires
+Failed Logins
+Last incorrect password
+Reset\Unlock
+New User
+Bypass
+Options
+Restore
+BackUp
+Hover over an object to get a hint...
+Click on image to load new image from file:
+Please select an operating system for editing accounts...
+Please select a user to edit account properties...
+Unlock the account and reset the password
+Creating a New User with Administrator Rights
+Allows you to bypass Windows user passwords
+Additional tools and information about the program
+Restore from a backup copy of the user database
+Creating a backup of the user database
+Please wait...
+Current date:
+Please click the button to save user information
+Close user information window
+Please enter your desired username...
+If you want to create a new user, enter its name and click [OK]
+Close the new user creation window
+Please enter your desired password...
+Please enter a new password and click [OK]
+Close the window change password
+Error loading the registry hive!
+Please wait, the partitions are being scanned...
+Please wait, virtual disk is connected...
+Please select a user to receive information...
+Please wait for the completion of current activities!
+Password reset successfully!
+Error accessing the user database!
+Please select user to reset password and unlock...
+User account:
+is deleted!
+The new user:
+is created!
+Operating system not detected!
+Driver Information File
+The password change task is scheduled!
+Found the user profile folder:
+You can remove it manually...
+Add new group member
+Add User:
+To the
+group
+User has been added to
+the
+User:
+already a member
+of the
+It is forbidden to deprive
+the user's rights:
+Load
+Exit from the group
+Remove user:
+from the
+is not a member
+of the
+Creating backup
+Backup of the user database already exists.
+сreation date:
+Overwrite?
+Backup of the user database created!
+Error creating backup!
+Create a backup of the user database?
+Restore from a backup
+Restore from a backup the user database?
+User database is restored from backup!
+Restore database
+Restore failed!
+A backup of the user database was not found!
+Disable user
+Windows User
+Windows local User
+System library not found:
+Are you sure you want to close the program?
+Clear user history
+User history cleared!
+Something went wrong...
+Account is enabled!
+Account is disable!
+User password reset!
+Type
+Device name
+Volume label
+Last Logged On User
+Cmd Line
+Setup Type
+Pin
+Info
+#
+Enable user
+Refresh list
+Clear history
+Bypass Mode
+File Explorer
+Task Manager
+Registry Editor
+Command Prompt
+RUN
+Disk Management
+Properties
+Cancel Tasks
+Hibernation
+Reset pin code
+Mount Virtual Drive
+Disk
+Donate
+About
+Change password
+Reset password
+Administrators
+Delete User
+Remove from group
+Add To group
+New User
+Disable
+Enable
+for user
+disabled
+enabled
+Driver
+Load Driver
+Exitcode
+Did you like the project? Do you want it to develop? Provide financial assistance. Transfer any amount to one of these wallets:
+Offline Registry Tweaker
+Idea, developments, Interface, testing
+Program was created With technical assistance
+Build
+Pin code
+Blank password
+User Name:
+User Full Name:
+Description:
+Member of group:
+User information
+Password hint:
+Last Logon:
+Login Count:
+Please choose a save path:
+Last Incorrect Pass:
+Failed Logins:
+Account Expires:
+Password Last Set:
+The user must change the password at the next login
+The user cannot change the password
+Non-expiring password
+Account disabled
+Account locked out
+No password required
+RID Hijacking
+Microsoft ID
+Save to file
+OK
+User is not selected or disk is unavailable!
+file saved!
+Open the file for viewing, in notepad?
+Error creating file!
+Please choose another storage path...
+Windows Live Detected
+Windows local User
+Error accessing the registry file!
+Data writing error!
+Reset the user's password:
+Reset the user's pin code:
+Pin Reset Ok
+Pin not Reset
+Delete the user's:
+Scheduled tasks canceled!
+Library architecture is not correct:
+Sleep mode is Not disabled
+File access error:
+is deleted!
+Please select  user to delete...
+Sleep mode disabled
+Bypass Windows Password
+Congratulations
+and unlock account?
+This is a Windows Live Account associated with:
+Reset the password and transfer the account to the local account?
+Cancel
+Please enter a new password:
+Please enter the user name:
+Please select File Explorer:
+Please select a file:
+Sorry, disk partition
+unavailable
+Action could Not be performed!
+seems to be HIBERNATED.
+DISABLE HIBERNATE?
+(consequences Not known)
+Deleting built-in accounts is forbidden!
+UserName:
+Please EXIT program And properly REBOOT SELECTED WINDOWS SYSTEM. Then use 'Restart' To avoid hibernation (don't use 'Shutdown' or 'Power off' commands).
+Windows System on selected drive seems to be HIBERNATED. Modifying Data on this drive could be dangerous. Windows System may Not boot properly after modification, all changes may be lost Or filesytem may become corrupted.
+This feature allows you to bypass Windows password for account, without changing the current password. It works by temporarily disabling Windows authentication subsystem while booting.
+Ready to bypass the passwords for your Windows installation:
+Click OK To proceed.
+Now reboot your computer, and you can then log into any Windows local account with any password, but only once.
+Note that Windows authentication subsystem will go back to work after one additional reboot.
+Yes
+No
+<blank>
+<uknown>
+Registry is blocked!
+Unlock SAM registry hive in Registry Editor and Refresh list
+Admin
+Users
+Guest
+Hijack
+Other
+Inactive system not found! Possible solutions:
+Program does not work with the running system!
+* run program from any WinPE (LiveCD).
+Partition with installed system Not found!
+* install M.2 PCIe NVMe SSD driver;
+* disable BitLocker drive encryption.
+Create a new user
+Reset\Unlock
+New User
+Bypass
+Options
+Restore
+BackUp
+Unlock
